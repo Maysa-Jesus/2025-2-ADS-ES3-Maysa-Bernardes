@@ -1,4 +1,4 @@
-Projeto de Trabalho de Graduação
+**Projeto de Trabalho de Graduação**
 - Autor: Maysa Bernardes
 - Engenharia de Software III
 - Lista de artefatos
